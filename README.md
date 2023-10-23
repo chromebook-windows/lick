@@ -11,3 +11,10 @@ Step 1: [Enable developer mode](https://chromium.googlesource.com/chromiumos/doc
    * Follow the on screen instructions, then once it reboots, you should be in Developer Mode. **Do not enable debugging features.**
    * Setup the system as you would on any other Chromebook.
   
+Step 2: [Disable Write Protect](https://wiki.mrchromebox.tech/Firmware_Write_Protect#Hardware_Write_Protection)
+   > WARNING:
+   > This requires opening up your Chromebook.
+
+   * Unscrew and remove the back cover.
+   * Disconnect the battery.
+   * Plug in the charger and turn on your chromebook.
