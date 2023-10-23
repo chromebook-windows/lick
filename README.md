@@ -18,3 +18,10 @@ Step 2: [Disable Write Protect](https://wiki.mrchromebox.tech/Firmware_Write_Pro
    * Unscrew and remove the back cover.
    * Disconnect the battery.
    * Plug in the charger and turn on your chromebook.
+
+Step 3: [Flash Firmware](https://chrultrabook.github.io/docs/docs/firmware.html)
+   > WARNING:
+   > **Flashing the firmware has the potential to brick your device.**
+
+   * Press `ctrl` `alt` and `t` at the same time.
+   * Type `shell` and press Enter.
